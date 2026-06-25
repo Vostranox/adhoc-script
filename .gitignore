@@ -1,0 +1,10 @@
+*
+
+!.gitignore
+!LICENSE
+!README.md
+!include/
+!include/adh/
+!include/adh/script.hpp
+!test/
+!test/test.cpp
